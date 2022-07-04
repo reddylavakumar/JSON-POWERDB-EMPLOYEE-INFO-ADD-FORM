@@ -8,10 +8,16 @@ Whether it's a Dynamic Website or a Mobile App or some Data Analytics Portal, th
 To run the downloaded file follow the steps:
 
 1.First register at http://api.login2explore.com:5577/user/dashboard.html 
+
 2.Now login to the same site and check the reference number and have it somewhere
+
 3.Now copy the Index.html file and open it with the Apache Netbeans 
+
 4.Now change the reference number to which you have copied from step2.
+
 5.Now you can run the file and you can see the opening of the form 
+
 6.If you fill the form and submit now directly the information is saved in JSON POWER DATABASE and now tyou can see the 
   deatils of form in the same site mentioned in step1, and VISUALIZE-->JSON-->SELECT DATABASE-->SAMPLE-->SELECT RELATION -->EMP REL
+  
 7.Now you can find the data stored in database.
